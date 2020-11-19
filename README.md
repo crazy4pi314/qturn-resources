@@ -1,5 +1,5 @@
-# Resource for _Science is not a safe space_
-## @[Q-Turn 2020](https://www.q-turn.org/)
+#### Resources for
+# _Science is not a safe space_ | [Q-Turn 2020](https://www.q-turn.org/)
 
 ## Related talks
 
