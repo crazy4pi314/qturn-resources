@@ -1,8 +1,10 @@
-# Resource for _Science is not a safe space_ session at [Q-Turn 2020](https://www.q-turn.org/)
+# Resource for _Science is not a safe space_
+## @[Q-Turn 2020](https://www.q-turn.org/)
 
 ## Related talks
 
-- []
+- [Working condiditons in academia and its impact on mental health _BQIT 2020_](https://www.youtube.com/watch?v=kxRyIW8JjPU)
+- [Creation of inclusive spaces in science & technology](https://www.youtube.com/watch?v=L0HGkQ_OXwY)
 
 ## Surveys and academic research
 
