@@ -35,6 +35,10 @@
 - [1752 Group](https://1752group.com/) 
 - [Project Juno](https://www.iop.org/about/IOP-diversity-inclusion/project-juno)
 
+### USA
+
+- [eAlliances : a Mutual Mentoring Network](https://ealliances.aapt.org/about.cfm)
+
 ### Global
 - [Athena Swan](https://www.advance-he.ac.uk/equality-charters/athena-swan-charter#what-is)
 
