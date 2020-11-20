@@ -12,12 +12,15 @@
 - [Harassment in Dutch academia _Exploring manifestations, facilitating factors, effects and solutions_ (2019)](https://www.lnvh.nl/uploads/moxiemanager/LNVH_rapport__lsquo_Harassment_in_Dutch_academia__Exploring_manifestations__facilitating_factors__effects_and_solutions_rsquo_.pdf)
 - [AAU Climate Survey on Sexual Assault and Sexual Misconduct (2015)](https://www.aau.edu/key-issues/aau-climate-survey-sexual-assault-and-sexual-misconduct-2015)
 - [A Systematic Look at a Serial Problem: Sexual Harassment of Students by University Faculty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2971447)
+- [Intersectionality, Equity, Diversity, Inclusion, and Access](https://othersociologist.com/intersectionality-equity-diversity/)
+- [The Other Sociologist](https://othersociologist.com/) is a blog by Dr. Zuleyka Zevallos a social scientist who writes about intersectionality and D&I in academic spaces
 
 ## Articles
 
 - [Abusers and Enablers in Faculty Culture](https://www.chronicle.com/article/abusers-and-enablers-in-faculty-culture/)
 - [Professor Geoff Marcy and Abuse of Power: How Sexual Harassment in Science Departments Goes Unchecked](https://www.themarysue.com/harassment-science-departments/)
 - [The Consequences of Resisting a Professor’s Advances](https://the-toast.net/2016/03/23/the-consequences-of-resisting-a-professors-advances/)
+- [Equity and Race in Discussions of “Gender Balanced” Panels](https://othersociologist.com/2017/06/19/equity-race-discussions-gender-balance-panels/#more-11003)
 
 ## Organizations
 
