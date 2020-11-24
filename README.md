@@ -43,9 +43,10 @@
 - [Athena Swan](https://www.advance-he.ac.uk/equality-charters/athena-swan-charter#what-is)
 
 
-## Workshop/Event organizer resources
+## Event/group organizer resources
 - [DISCOVER Cookbook: Diverse & Inclusive Spaces and Conferences](https://discover-cookbook.github.io/)
 - [LGBT+ Inclusivity in Physics and Astronomy: A Best Practices Guide](https://arxiv.org/abs/1804.08406)
+- [1752 Group: Sector Guidance to Address Staff Sexual Misconduct in UK HE](https://1752group.com/sector-guidance/)
 
 ## Misc
 
