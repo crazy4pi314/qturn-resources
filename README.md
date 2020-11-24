@@ -19,6 +19,7 @@
 - [Sexual harassment reported by undergraduate female physicists](https://journals.aps.org/prper/pdf/10.1103/PhysRevPhysEducRes.15.010121)
 - [It’s time to recognize how men’s careers beneft from sexually harassing women in academia](https://hugeog.com/wp-content/uploads/2019/06/HG_Vol-12_No1_2019_ch11.pdf)
 - [The Other Sociologist](https://othersociologist.com/) is a blog by Dr. Zuleyka Zevallos a social scientist who writes about intersectionality and D&I in academic spaces
+- [Exploring the workplace for LGBT+ physical scientists](https://d25f0oghafsja7.cloudfront.net/sites/default/files/2019-06/exploring-the-workplace-for-lgbtplus-physical-scientists_1.pdf)
 
 ## Articles
 
