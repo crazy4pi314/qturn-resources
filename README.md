@@ -42,6 +42,8 @@
 
 ### Global
 - [Athena Swan](https://www.advance-he.ac.uk/equality-charters/athena-swan-charter#what-is)
+- [500 Women Scientists](https://500womenscientists.org/)
+- [500 Queer Scientists](https://500queerscientists.com/)
 
 
 ## Event/group organizer resources
